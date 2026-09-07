@@ -119,6 +119,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://docs.microsandbox.dev/favicon.ico" height="14"/> [Microsandbox](https://github.com/microsandbox/microsandbox)<sup><sup>⭐</sup></sup> - Self-hosted platform for secure execution of AI code. Great for Code Interpreter, Data Analysis, Browser Use.
 - <img src="https://e2b.dev/favicon.ico" height="14"/> [E2B](https://github.com/e2b-dev/mcp-server)<sup><sup>⭐</sup></sup> - Secure cloud development environments for AI agents. Enables safe code execution and testing in isolated containers.
 - <img src="https://cdn.simpleicons.org/docker/0db7ed" height="14"/> [Docker](https://github.com/QuantGeekDev/docker-mcp) - An MCP server for Docker operations, enabling seamless container and compose stack management.
+- <img src="https://raw.githubusercontent.com/bostrot/wsl2-distro-manager/main/assets/logo_wsl_manager.png" height="14"/> [WSL Manager](https://github.com/bostrot/wsl2-distro-manager) - MCP server built into the WSL Manager desktop app: create, configure, run, package and remove WSL distros on Windows and native Linux VMs on macOS, run commands in persistent terminal sessions, manage snippets and mount disks. Local HTTP endpoint with bearer token (Pro feature).
 
 <br />
 
